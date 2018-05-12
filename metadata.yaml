@@ -1,0 +1,28 @@
+_repo: The-Little-Girl-LostA-Tale-for-Little-Girls_29683
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 29683-h/images/cover2.jpg
+creator:
+  author:
+    agent_name: Raper, Eleanor
+    gutenberg_agent_id: '34082'
+    url: http://www.gutenberg.org/2009/agents/34082
+description: ''
+gutenberg_issued: '2009-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'British -- China -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'China -- Juvenile fiction'
+title: 'The Little Girl Lost
+
+  A Tale for Little Girls'
+url: http://www.gutenberg.org/ebooks/29683
